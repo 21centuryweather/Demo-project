@@ -1,6 +1,6 @@
-# add project name here  <img src='https://21centuryweather.org.au/wp-content/uploads/Hackathon-Image-WCRP-Positive-1536x736.jpg' align="right" height="139" />
+# Demo project  <img src='https://21centuryweather.org.au/wp-content/uploads/Hackathon-Image-WCRP-Positive-1536x736.jpg' align="right" height="139" />
 
-Project description, please include the main idea and questions that motivate the project.
+This is a demo project to practice how to work with git. It does not include any code or analysis.
 
 
 **Project leads:** name, affiliation/github username
